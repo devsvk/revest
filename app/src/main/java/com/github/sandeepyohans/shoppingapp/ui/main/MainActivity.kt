@@ -49,7 +49,10 @@ import com.github.sandeepyohans.shoppingapp.data.model.Product
 import com.github.sandeepyohans.shoppingapp.ui.theme.ShoppingAppTheme
 import dagger.hilt.android.AndroidEntryPoint
 
-
+/**
+* This is the main activity.
+* The home page for our application.
+*/
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
 
