@@ -1,3 +1,4 @@
+This application uses Dummy products api to fetch products data over network using REST apis.
 
 1 - List all the products on app launch, displaying :
      <li>Product Title
