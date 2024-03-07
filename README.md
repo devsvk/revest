@@ -1,3 +1,4 @@
+This Android application uses dummy api to display list product list.
 
 1 - List all the products on app launch, displaying :
      <li>Product Title
